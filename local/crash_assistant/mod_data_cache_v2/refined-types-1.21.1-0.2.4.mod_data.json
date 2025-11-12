@@ -1,0 +1,1 @@
+{"jarName":"refined-types-1.21.1-0.2.4.jar","modId":"refinedtypes","version":"1.21.1-0.2.4","mixinConfigs":["refinedtypes.mixins.json"],"jarJarMods":[{"jarName":"GrandPower-3.0.2.jar","modId":"grandpower","version":"3.0.2","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

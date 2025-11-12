@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mahoutsukai:mystic_staff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"forbidden_arcanus:eternal_stella"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mahoutsukai:spatial_disorientation_staff"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

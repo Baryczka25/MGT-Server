@@ -1,0 +1,9 @@
+#Todas as configurações relacionadas com a jogabilidade principal
+[gameplay]
+	#Whether to generate supply ships and camps in loot chests. [Default: true]
+	generatesupplyloot = true
+
+#Todas as configurações relacionadas com o sistema de solicitações
+[requestsystem]
+	#Should the request system show debug information in the debug.log? Useful if malfunctioning. [Default: false]
+	enabledebuglogging = false

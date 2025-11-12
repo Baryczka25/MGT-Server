@@ -1,0 +1,1 @@
+{"jarName":"ars_elemancy-1.21.1-1.11.jar","modId":"ars_elemancy","version":"1.11","mixinConfigs":["ars_elemancy.mixins.json"],"jarJarMods":[{"jarName":"sauce-1.21.1-0.0.4.15.jar","modId":"sauce","version":"0.0.4.15","mixinConfigs":["sauce.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

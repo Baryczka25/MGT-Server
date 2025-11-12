@@ -1,0 +1,12 @@
+[08:28:25] [INIT] KubeJS 2101.7.2-build.295; MC 2101 NeoForge
+[08:28:25] [INIT] Loaded plugins:
+[08:28:25] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[08:28:25] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[08:28:25] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[08:28:25] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[08:28:25] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[08:28:26] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[08:28:26] [INFO] Loaded script startup_scripts:main.js in 0.194 s
+[08:28:27] [INFO] Loaded 1/1 KubeJS startup scripts in 2.073 s with 0 errors and 0 warnings
+[08:28:27] [INFO] Validated 2 files in kubejs/assets/ in 8ms
+[08:28:27] [INFO] Validated 0 files in kubejs/data/ in 0ms

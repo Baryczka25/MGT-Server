@@ -1,0 +1,349 @@
+{
+	id: "74164DBBE7919A3B"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		string_id: "mekanism_advanced_loot_box"
+	}
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{
+			count: 4
+			id: "53BE900144EF77D1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "alltheores:steel_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 100.0f
+		}
+		{
+			id: "50D8A21811377A94"
+			item: {
+				components: {
+					"ftbquests:missing_item": "alltheores:steel_block"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 75.0f
+		}
+		{
+			id: "64E4859CF8140EFA"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:steel_casing"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 3
+			weight: 50.0f
+		}
+		{
+			count: 16
+			id: "75F2660A2AEE678A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:thermal_evaporation_block"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 16
+			weight: 50.0f
+		}
+		{
+			id: "5D69EADE3AD41587"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:basic_induction_cell"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "359196742AE44E4A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:basic_induction_provider"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 50.0f
+		}
+		{ id: "35140EC723B9A1CF", item: { components: { "ftbquests:missing_item": "mekanism:pellet_polonium" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "5F3AC50BC2EE1F37"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:pellet_plutonium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "7DD96B520824269B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "alltheores:uranium_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 12
+			weight: 100.0f
+		}
+		{
+			count: 4
+			id: "0DFF1CBAB18DC81B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanismgenerators:turbine_casing"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 12
+			weight: 50.0f
+		}
+		{
+			count: 4
+			id: "15FF735027756863"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanismgenerators:fission_reactor_casing"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 12
+			weight: 25.0f
+		}
+		{
+			id: "4498A322E135E1E5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "alltheores:uranium_block"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 50.0f
+		}
+		{
+			count: 4
+			id: "321D69B13171EB15"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:upgrade_speed"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 75.0f
+		}
+		{
+			count: 4
+			id: "5192FA83CD357CF3"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:upgrade_energy"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 75.0f
+		}
+		{
+			id: "33449A48A8673999"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:advanced_tier_installer"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 50.0f
+		}
+		{
+			id: "43C300F761C1FB6B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:elite_tier_installer"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "0EF9C77A1DBA64F2"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ultimate_tier_installer"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "4E88E6B10673DE0F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:alloy_reinforced"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 75.0f
+		}
+		{
+			id: "2B944B66AE0AC087"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:alloy_atomic"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 50.0f
+		}
+		{
+			count: 2
+			id: "358DFBF2A6F0A46C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:reprocessed_fissile_fragment"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "3227EE5B5D0F138A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:dust_lithium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 12
+			weight: 50.0f
+		}
+		{
+			id: "292602286CFF933F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:quantum_entangloporter"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "0957CDD20D2FF75C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:elite_energy_cube"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "4CB7B57A2A2F4221"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ultimate_energy_cube"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "3D6526E4D323BE9D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ultimate_universal_cable"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 50.0f
+		}
+		{
+			count: 4
+			id: "0C678C6706EDE6E7"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ultimate_mechanical_pipe"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 50.0f
+		}
+		{
+			count: 4
+			id: "6E38F43848D9B621"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ultimate_pressurized_tube"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 50.0f
+		}
+		{
+			id: "6EADF44BB53927A9"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanismgenerators:advanced_solar_generator"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 50.0f
+		}
+	]
+	use_title: true
+}

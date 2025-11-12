@@ -1,0 +1,50 @@
+/gamerule keepInventory true
+/kill
+/veinminer blocks add silentgems:peridot_ore
+/veinminer blockpertool blocks silentgems:peridot_ore
+/veinminer blockpertool blocks add silentgems:peridot_ore
+/veinminer reload
+/veinminer blocks add minecraft:deepslate
+/veinminer blocks add minecraft:deepslate_coal_ore
+/veinminer blocks add silentgems:deepslate_peridot_ore
+/veinminer blocks add silentgems:deepslate_alexandrite_ore
+/veinminer blocks add silentgems:deepslate_ammolite_ore
+/veinminer blocks add silentgems:deepslate_aquamarine_ore
+/veinminer blocks add silentgems:deepslate_black_diamond_ore
+/veinminer blocks add silentgems:deepslate_carnelian_ore
+/veinminer blocks add silentgems:deepslate_chaos_ore
+/veinminer blocks add silentgems:deepslate_citrine_ore
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/veinminer blocks add silentgems:deepslate_sapphire_ore
+/veinminer reload
+/veinminer blocks add silentgems:deepslate_ruby_ore
+/veinminer reload
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/veinminer blocks add minecraft:clay
+/veinminer reload
+/veinminer blocks add
+/veinminer blocks add forbidden_arcanus:darkstone
+/veinminer reload
+/veinminer blocks add silentgems:deepslate_heliodor_ore
+/veinminer reload
+/veinminer blocks add silentgems:deepslate_iolite_ore
+/veinminer reload
+/kill
+/veinminer settings
+/voicechat help
+/voicechat test
+/voicechat test laranjeiras
+/voicechat test @a
+/voicechat test @e
+/voicechat test laranjeiras
+/return
+/return run
+/restart
+/voicechat test laranjeiras
+/reload
+/time set day

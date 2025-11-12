@@ -1,0 +1,67 @@
+{
+	id: "38EA3D35FF94DD47"
+	loot_size: 1
+	order_index: 59
+	rewards: [
+		{
+			count: 2
+			id: "4E192A0A793CE34B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:analog_circuit_board"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "134A8B78F701D860", item: { components: { "ftbquests:missing_item": "modern_industrialization:analog_circuit" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 16
+			id: "3025FA18CBF4CE04"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:battery_alloy_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 8
+			id: "54D7CAA032886426"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:battery_alloy_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 2
+			id: "3E1A0112B1727BC1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:basic_machine_hull"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.9f
+		}
+		{
+			count: 4
+			id: "6BA7939519EE5C74"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:basic_upgrade"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.9f
+		}
+		{ id: "60CEC1580E8A743F", item: { components: { "ftbquests:missing_item": "modern_industrialization:motor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "31B58B080EB53799", item: { components: { "ftbquests:missing_item": "modern_industrialization:pump" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

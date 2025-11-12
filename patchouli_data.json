@@ -1,0 +1,20 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "productivemetalworks:guide": {
+      "viewedEntries": [
+        "productivemetalworks:sgear"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:equipment/warp_scroll"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

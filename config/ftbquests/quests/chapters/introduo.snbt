@@ -1,0 +1,56 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduo"
+	group: ""
+	id: "59D56B391A309730"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "61A877AFAFB98151"
+			rewards: [{
+				id: "093685B5A9B03964"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "381360FDE5D92D30"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["61A877AFAFB98151"]
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "3DB6CEC923B29091"
+			rewards: [{
+				id: "2A03A23E0975F16D"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				count: 4L
+				id: "07EA5AA837DEA6C1"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "360C85EF72324705"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "396EDDB584EF48FD"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+	]
+}

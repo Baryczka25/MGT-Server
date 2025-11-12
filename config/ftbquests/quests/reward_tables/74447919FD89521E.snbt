@@ -1,0 +1,56 @@
+{
+	id: "74447919FD89521E"
+	loot_size: 1
+	order_index: 63
+	rewards: [
+		{
+			count: 4
+			id: "39DF7D474BAB8EF6"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:turbo_upgrade"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "65C64DBFDEAB85F9", item: { components: { "ftbquests:missing_item": "modern_industrialization:turbo_fluid_input_hatch" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "60654C0D7FEDEF07", item: { components: { "ftbquests:missing_item": "modern_industrialization:turbo_fluid_output_hatch" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7C66C6DA34C6BCB3", item: { components: { "ftbquests:missing_item": "modern_industrialization:turbo_item_input_hatch" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "52AF5AEA32F9EE46", item: { components: { "ftbquests:missing_item": "modern_industrialization:turbo_item_output_hatch" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "004605BB0DA2967A", item: { components: { "ftbquests:missing_item": "modern_industrialization:turbo_machine_hull" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 32
+			id: "7E6F328D64D71F60"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:raw_titanium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 8
+			id: "06597F6D67A6F698"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:titanium_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 2
+			id: "4260DAB26E718C69"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:mixed_ingot_blastproof"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+	]
+}

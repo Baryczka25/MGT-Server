@@ -1,0 +1,41 @@
+{
+	chapter.0E21FB2EFB41A583.title: "MineColonies"
+	chapter.11919EBB416B2BD0.title: "Relics"
+	chapter.12AD9789D962B179.title: "Apoteosis"
+	chapter.15AAF17B6665223D.title: "Refined Storage"
+	chapter.1D42B373285DEF81.title: "Silent Gear"
+	chapter.2A6EBEEBAB882679.title: "Powah!"
+	chapter.43BB00A7A7E1042C.title: "Mahou Tsukai"
+	chapter.4EBB2171D5A3AAAC.title: "Forbidden Arcanus"
+	chapter.59D56B391A309730.title: "Introdução"
+	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
+	chapter.76DF5FAA7961E5E7.title: "Iron Spells And Spellbooks"
+	chapter.7AF827D2D101D343.title: "Artifacts"
+	chapter_group.02FE661031A105D8.title: "Magia"
+	chapter_group.03E34452C648BB16.title: "Criação de Colonia"
+	chapter_group.15E5B587D291A4AA.title: "Armas/Reliquias"
+	chapter_group.49AECADBA9E79A3B.title: "Tecnologia"
+	file.0000000000000001.title: "&6Quests Foda"
+	quest.360C85EF72324705.quest_desc: [
+		"&6Com o decorrer do servidor vou vendo se crio mais quests; "
+		""
+		"&6Se quiserem uma linha de quest nova é so falar;&r"
+	]
+	quest.3DB6CEC923B29091.quest_desc: [
+		"&6Pega madeira de carvalho;"
+		""
+		"&6(Vai ser complicado de achar)"
+	]
+	quest.3DB6CEC923B29091.title: "Madeira"
+	quest.555ED1E39131D91B.quest_desc: ["{image:irons_spellbooks:textures/gui/spell_icons/ice_tomb.png width:100 height:100 align:center}"]
+	quest.61A877AFAFB98151.quest_desc: [
+		"&6Essas quest são só um guia para caso precisem elas possuem recompensas."
+		""
+		""
+		"&6(Elas foram importadas de outro modpack, caso alguma dé problema me avisem para eu arrumar)"
+		""
+		"&6Se divirtam;  &9:)"
+	]
+	task.381360FDE5D92D30.title: "Inicio"
+	task.396EDDB584EF48FD.title: "Atualizar quests"
+}

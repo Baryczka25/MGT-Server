@@ -1,0 +1,17 @@
+{
+	id: "0bd32e4f-186f-479e-b25b-d766fdd69cb3"
+	type: "player"
+	player_name: "laranjeiras"
+	ranks: {
+		0bd32e4f-186f-479e-b25b-d766fdd69cb3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "laranjeiras"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

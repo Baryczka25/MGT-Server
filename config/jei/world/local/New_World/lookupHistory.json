@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"silentgear:rod_blueprint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"artifacts:whoopee_cushion","components":{"relics:data":{"abilities":{"abilities":{"push":{"lock":{"breaks":5},"extender":{"cooldownCap":0,"cooldown":0,"ticking":false},"points":0,"stats":{"chance":{"initialValue":0.38289},"radius":{"initialValue":4.8709}},"research":{"links":{},"researched":false}}}},"leveling":{"level":0,"experience":0,"points":0,"luck":0}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomeswevegone:cika_chest_boat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecolonies:supplychestdeployer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"artifacts:crystal_heart","components":{"relics:data":{"abilities":{"abilities":{"heart":{"lock":{"breaks":5},"extender":{"cooldownCap":0,"cooldown":0,"ticking":false},"points":0,"stats":{"amount":{"initialValue":3.35424}},"research":{"links":{},"researched":false}}}},"leveling":{"level":0,"experience":0,"points":0,"luck":0}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:wizard_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:shadowwalker_chestplate","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":1,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:electromancer_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:archevoker_chestplate","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":1,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

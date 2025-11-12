@@ -1,0 +1,105 @@
+---- Minecraft Crash Report ----
+// I feel sad now :(
+
+Time: 2025-10-28 09:51:21
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: sodium --
+Details:
+	Mod file: /C:/Users/Pichau/AppData/Roaming/.minecraft/versions/Mgt/mods/sodium-neoforge-0.6.13+mc1.21.1.jar
+	Failure message: Mod sodium is incompatible with embeddium 0.0.1 or above
+		Currently, embeddium is 1.0.15+mc1.21.1
+		The reason is: Sodium and Embeddium cannot be used together. Please remove Embeddium.
+	Mod version: 0.6.13+mc1.21.1
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: embeddium --
+Details:
+	Mod file: /C:/Users/Pichau/AppData/Roaming/.minecraft/versions/Mgt/mods/embeddium-1.0.15+mc1.21.1.jar
+	Failure message: Mod embeddium is incompatible with sodium 0 or above
+		Currently, sodium is 0.6.13+mc1.21.1
+		The reason is: Embeddium cannot be used if Sodium is present. If you want to use Embeddium you will have to remove Sodium.
+	Mod version: 1.0.15+mc1.21.1
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: iris --
+Details:
+	Mod file: /C:/Users/Pichau/AppData/Roaming/.minecraft/versions/Mgt/mods/iris-neoforge-1.8.12+mc1.21.1.jar
+	Failure message: Mod iris is incompatible with embeddium 0.0.1 or above
+		Currently, embeddium is 1.0.15+mc1.21.1
+		The reason is: Iris and Embeddium cannot be used together. Please use Sodium 0.6 instead.
+	Mod version: 1.8.12-snapshot+mc1.21.1-local
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 611291288 bytes (582 MiB) / 1140850688 bytes (1088 MiB) up to 10502537216 bytes (10016 MiB)
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+	Identifier: Intel64 Family 6 Model 60 Stepping 3
+	Microarchitecture: Haswell (Client)
+	Frequency (GHz): 3.39
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: Microsoft Basic Display Adapter
+	Graphics card #0 vendor: Microsoft
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 10.0.19041.3636
+	Graphics card #1 name: NVIDIA GeForce GTX 1050 Ti
+	Graphics card #1 vendor: NVIDIA
+	Graphics card #1 VRAM (MiB): 4096.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 32.0.15.7628
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 1.60
+	Memory slot #0 type: DDR3
+	Memory slot #1 capacity (MiB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 1.60
+	Memory slot #1 type: DDR3
+	Virtual memory max (MiB): 31108.46
+	Virtual memory used (MiB): 13772.28
+	Swap memory total (MiB): 14768.78
+	Swap memory used (MiB): 1362.37
+	Space in storage for jna.tmpdir (MiB): available: 54053.32, total: 227636.56
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 54053.32, total: 227636.56
+	Space in storage for io.netty.native.workdir (MiB): available: 54053.32, total: 227636.56
+	Space in storage for java.io.tmpdir (MiB): available: 54053.32, total: 227636.56
+	Space in storage for workdir (MiB): available: 54053.32, total: 227636.56
+	JVM Flags: 9 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Xmx10007M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.42.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.42.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.42.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar crash_assistant TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		kotlinforforge@5.10.0
+		kotori_scala@3.7.1-build-11
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		neoforge-21.1.213-universal.jar                   |NeoForge                      |neoforge                      |21.1.213            |Manifest: NOSIGNATURE

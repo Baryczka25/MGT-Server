@@ -1,0 +1,212 @@
+"ars_elemental:imbued_axe" = [
+    "#forge:logs",
+    "#minecraft:logs"
+]
+"byg:pendorite_axe" = [
+    "#forge:logs"
+]
+"forbidden_arcanus:arcane_axe" = [
+    "#forge:logs"
+]
+"minecraft:diamond_axe" = [
+    "#forge:logs",
+    "#forge:planks",
+    "#forge:wood",
+    "#minecraft:logs"
+]
+"minecraft:diamond_pickaxe" = [
+    "minecraft:ancient_debris",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:gilded_blackstone",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:redstone_ore"
+]
+"minecraft:golden_axe" = [
+    "#forge:logs",
+    "#forge:planks",
+    "#forge:wood",
+    "#minecraft:logs"
+]
+"minecraft:golden_pickaxe" = [
+    "minecraft:ancient_debris",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:gilded_blackstone",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:redstone_ore"
+]
+"minecraft:iron_axe" = [
+    "#forge:logs",
+    "#forge:planks",
+    "#forge:wood",
+    "#minecraft:logs"
+]
+"minecraft:iron_pickaxe" = [
+    "minecraft:ancient_debris",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:gilded_blackstone",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:redstone_ore"
+]
+"minecraft:netherite_axe" = [
+    "#forge:logs",
+    "#forge:planks",
+    "#forge:wood",
+    "#minecraft:logs"
+]
+"minecraft:netherite_pickaxe" = [
+    "minecraft:ancient_debris",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:gilded_blackstone",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:redstone_ore"
+]
+"minecraft:stone_axe" = [
+    "#forge:logs",
+    "#forge:planks",
+    "#forge:wood",
+    "#minecraft:logs"
+]
+"minecraft:stone_pickaxe" = [
+    "minecraft:ancient_debris",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:gilded_blackstone",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:redstone_ore"
+]
+"minecraft:wooden_axe" = [
+    "#forge:logs",
+    "#forge:planks",
+    "#forge:wood",
+    "#minecraft:logs"
+]
+"minecraft:wooden_pickaxe" = [
+    "minecraft:ancient_debris",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:gilded_blackstone",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:redstone_ore"
+]
+"oh_the_trees_youll_grow:tools" = [
+    "#forge:logs",
+    "#minecraft:logs"
+]
+"regions_unexplored:ruby_axe" = [
+    "#forge:logs"
+]
+"silentgear:axe" = [
+    "#forge:logs",
+    "#forge:wood"
+]
+"silentgear:pickaxe" = [
+    "minecraft:ancient_debris",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:gilded_blackstone",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:redstone_ore"
+]
+

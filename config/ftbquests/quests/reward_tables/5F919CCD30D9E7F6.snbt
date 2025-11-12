@@ -1,0 +1,107 @@
+{
+	id: "5F919CCD30D9E7F6"
+	loot_size: 1
+	order_index: 60
+	rewards: [
+		{
+			count: 2
+			id: "079FD1914F60EC8C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:electronic_circuit_board"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			id: "6DC74DA40023B45D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:electronic_circuit"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 8
+			id: "647ADEC18F140711"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:cupronickel_cable"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "2867FB75ED1C7466", item: { components: { "ftbquests:missing_item": "modern_industrialization:advanced_machine_hull" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "7E297C0C605B7362"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:advanced_item_input_hatch"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "7CBD7AB96E61EEB6"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:advanced_item_output_hatch"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "5889A1BDCA29F78C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:advanced_fluid_output_hatch"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "42F1FFC638B65C6B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:advanced_fluid_input_hatch"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 8
+			id: "36EF5EAA4A3CA01A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:silicon_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 32
+			id: "76BACE71BA3102C5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:monazite_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+	]
+}

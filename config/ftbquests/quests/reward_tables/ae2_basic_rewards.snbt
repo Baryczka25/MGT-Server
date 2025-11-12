@@ -1,0 +1,69 @@
+{
+	id: "0A18991D9745743A"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 2
+			id: "5A9FE4E8C7EF23DE"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:certus_quartz_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "78AFD1DD9CC4CAEC"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:certus_quartz_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			id: "1DF89C8A80701CA1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "1263CC5EBABC03D5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "1C38C2CDD8DFAE4F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:charged_certus_quartz_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+	]
+	use_title: true
+}

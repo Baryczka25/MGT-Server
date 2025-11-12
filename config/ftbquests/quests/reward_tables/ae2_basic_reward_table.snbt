@@ -1,0 +1,124 @@
+{
+	id: "517CB2DAB0515A50"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 2
+			id: "428FEFDCEFEA2751"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:certus_quartz_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "60C9534712C9D517"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:certus_quartz_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "72BBB230EFF309C6"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:silicon"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "08B66FFFD86F3AD2"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:printed_silicon"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "03F3B4042D1EB832"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:charged_certus_quartz_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "542D67CE11091970"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 2.0f
+		}
+		{
+			id: "61457CAE8D9BA634"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "6E53AAC2EA215B56"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:logic_processor"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			id: "19E943E055FECA19"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:calculation_processor"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{ id: "76D48291478B26DD", item: { components: { "ftbquests:missing_item": "ae2:engineering_processor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "732BE89A7C1FC09A", item: { components: { "ftbquests:missing_item": "ae2:formation_core" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5E06E4BFE3DA4112", item: { components: { "ftbquests:missing_item": "ae2:annihilation_core" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+	use_title: true
+}

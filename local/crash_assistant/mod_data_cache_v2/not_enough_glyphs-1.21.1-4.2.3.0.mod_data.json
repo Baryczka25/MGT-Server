@@ -1,0 +1,1 @@
+{"jarName":"not_enough_glyphs-1.21.1-4.2.3.0.jar","modId":"not_enough_glyphs","version":"4.2.3.0","mixinConfigs":["not_enough_glyphs.mixins.json"],"jarJarMods":[{"jarName":"sauce-1.21.1-0.0.12.39.jar","modId":"sauce","version":"0.0.12.39","mixinConfigs":["sauce.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"silentgear:pickaxe_blueprint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"silentgear:axe_blueprint"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

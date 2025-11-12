@@ -1,0 +1,121 @@
+#Allowed tool registry ids or tag strings starting with '#'
+tools = [
+    # ===== Minecraft Vanilla =====
+    "minecraft:wooden_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:iron_pickaxe",
+    "minecraft:golden_pickaxe",
+    "minecraft:diamond_pickaxe",
+    "minecraft:netherite_pickaxe",
+    "minecraft:wooden_axe",
+    "minecraft:stone_axe",
+    "minecraft:iron_axe",
+    "minecraft:golden_axe",
+    "minecraft:diamond_axe",
+    "minecraft:netherite_axe",
+    "minecraft:wooden_shovel",
+    "minecraft:stone_shovel",
+    "minecraft:iron_shovel",
+    "minecraft:golden_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:netherite_shovel",
+
+    # ===== Forge Tags =====
+    "#forge:tools/pickaxes",
+    "#forge:tools/axes",
+    "#forge:tools/shovels",
+    "#forge:tools/hammers",
+    "#forge:tools/drills",
+    "#forge:tools/paxels",
+    "#forge:tools/excavators",
+
+    # ===== Silent Gear =====
+    "silentgear:pickaxe",
+    "silentgear:axe",
+    "silentgear:shovel",
+    "silentgear:hammer",
+    "silentgear:excavator",
+    "silentgear:paxel",
+    "silentgear:multi_tool",
+
+    # ===== Silent Gems =====
+    "silentgems:gemsword",
+    "silentgems:gempickaxe",
+    "silentgems:gemaxe",
+    "silentgems:gemshovel",
+    "silentgems:gemhammer",
+    "silentgems:gempaxel",
+
+    # ===== EnderIO =====
+    "enderio:dark_steel_pickaxe",
+    "enderio:dark_steel_axe",
+    "enderio:dark_steel_shovel",
+    "enderio:conductive_pickaxe",
+    "enderio:energized_pickaxe",
+
+    # ===== Powah =====
+    "powah:energized_pickaxe",
+    "powah:charged_pickaxe",
+    "powah:energized_axe",
+    "powah:energized_shovel",
+
+    # ===== Additional Enchanted Miner =====
+    "additional_enchanted_miner:diamond_drill",
+    "additional_enchanted_miner:advanced_quarry_drill",
+    "additional_enchanted_miner:infinity_drill",
+    "additional_enchanted_miner:auto_miner_tool",
+
+    # ===== Ars Nouveau / Ars Elemental =====
+    "ars_nouveau:spell_pick",
+    "ars_nouveau:imbued_pick",
+    "ars_elemental:crystal_pick",
+    "ars_elemental:imbued_axe",
+    "ars_elemental:imbued_shovel",
+
+    # ===== Forbidden Arcanus =====
+    "forbidden_arcanus:arcane_pickaxe",
+    "forbidden_arcanus:arcane_axe",
+    "forbidden_arcanus:arcane_shovel",
+    "forbidden_arcanus:darkstone_pickaxe",
+
+    # ===== Chisel =====
+    "chisel:chisel",
+    "chisel:iron_chisel",
+    "chisel:diamond_chisel",
+
+    # ===== Create (mechanical and hand tools) =====
+    "create:wrench",
+    "create:hand_crank",
+    "create:mechanical_drill",
+    "create:portable_drill",
+
+    # ===== Formations Mods =====
+    "formations:gem_pickaxe",
+    "formations:gem_axe",
+    "formations:gem_shovel",
+    "formations:gem_paxel",
+
+    # ===== Dungeons Arise =====
+    "dungeonsarise:crystal_pickaxe",
+    "dungeonsarise:crystal_shovel",
+    "dungeonsarise:crystal_axe",
+
+    # ===== Oh The Biomes We've Gone =====
+    "byg:pendorite_pickaxe",
+    "byg:pendorite_axe",
+    "byg:pendorite_shovel",
+    "byg:pendorite_hammer",
+
+    # ===== Regions Unexplored =====
+    "regions_unexplored:ruby_pickaxe",
+    "regions_unexplored:amber_pickaxe",
+    "regions_unexplored:ruby_axe",
+    "regions_unexplored:amber_shovel",
+
+    # ===== Silent Tools Integration =====
+    "silentgear:gear_pickaxe",
+    "silentgear:gear_axe",
+    "silentgear:gear_shovel",
+    "silentgear:gear_hammer",
+    "silentgear:gear_excavator"
+]
